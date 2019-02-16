@@ -1,5 +1,5 @@
 import ganevruTest from '../index';
 
-test('fake test', () => {
+test('fake test some', () => {
   expect(ganevruTest('some')).toBeDefined();
 });
